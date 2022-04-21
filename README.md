@@ -1,5 +1,5 @@
 # angular-js
-npm install
-bower install
-gulp serve
+npm install <br>
+bower install <br>
+gulp serve <br>
 //is any of the is not installed // npm install <name> -g
